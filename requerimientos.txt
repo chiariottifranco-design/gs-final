@@ -1,0 +1,8 @@
+Tipos de requerimientos:
+
+Funcionales: determinan qué hace el sistema.
+
+No funcionales: determina como se comporta el sistema. Ej: seguridad, rendimiento, etc.
+
+Las reglas de negocio determinan las condiciones sobre las cuales un sistema debe actuar; 
+mientras que los requerimientos funcionales se limitan en que debe poder hacer un sistema.
