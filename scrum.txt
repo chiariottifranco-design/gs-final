@@ -1,0 +1,21 @@
+Scrum es un framework ágil que permite organizar el trabajo de un equipo durante el desarrollo
+de un software.
+
+El proyecto se divide en períodos cortos llamados Sprints. Un Sprint puede durar 1 semana, 
+2 semanas o hasta 1 mes.
+
+Los Roles son:
+Product owner
+Scrum Master
+Team
+
+Los eventos de un Scrum son:
+- Sprint Planning
+- Daily Scrum 
+- Sprint Review
+- Sprint Retrospective
+
+Los Artefactos son:
++ Product Backlog
++ Sprint Backlog 
++ Incremento
