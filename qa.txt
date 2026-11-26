@@ -1,0 +1,6 @@
+QA y Testing:
+
+QA es el aseguramiento de la calidad. es preventivo y trabaja sobre el proceso durante 
+todo el desarrollo.
+
+Testing es evaluar el Software para detectar defectos.
